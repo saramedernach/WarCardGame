@@ -1,6 +1,6 @@
 # War Card Game
 Simple war card iOS game
 
-# Game
+## Game
 
 <b>Instructions</b>
